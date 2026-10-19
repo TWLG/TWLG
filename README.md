@@ -6,13 +6,23 @@
 
 </div>
 
-### 👋 Hey, I'm Liam
+```
+       __ _.--..--._ _
+    .-' _/   _/\_   \_'-.
+   |__ /   _/\__/\_   \__|
+      |___/\_\__/  \___|
+             \__/
+             \__/
+              \__/
+               \__/
+            ____\__/___
+      . - '             ' -.
+     /                      \
+~~~~~~~  ~~~~~ ~~~~~  ~~~ ~~~  ~~~~~
+  ~~~   ~~~~~   ~~~~   ~~ ~~~~ ~~~
+```
 
-I build things across the stack — Discord bots, websites, Unity & Unreal projects, and machine-learning tools for coastal camera data.
-
-- 🔭 Currently working on **ArteBot**, a TypeScript Discord moderation bot
-- 🌊 Contributed to **WebCOOS**: ML models for pulling data out of coastal cameras
-- 🎮 Into game dev and graphics: Unity, Unreal Engine 5, OpenGL
+Interested in learning and exploring more about **DevOps** and **Full-Stack Development**.
 
 ### 🛠️ Toolbox
 
