@@ -6,13 +6,9 @@
 
 Pursuing **DevOps** and **Full-Stack Development**.
 
-### 🛠️ Toolbox
-
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,cs,react,nodejs,unity,unreal,git&perline=9" />
 </p>
-
-### 📌 Featured
 
 | Project | What it is |
 | --- | --- |
@@ -22,10 +18,7 @@ Pursuing **DevOps** and **Full-Stack Development**.
 | [**CSC-455-Pokemon-Database**](https://github.com/TWLG/CSC-455-Pokemon-Database) | Pokémon relational database with a web interface |
 | [**UnityGolf592**](https://github.com/TWLG/UnityGolf592) | Golf game built in Unity |
 
-### 📊 Most Used Languages
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLG&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%" />
