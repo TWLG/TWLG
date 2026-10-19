@@ -6,23 +6,7 @@
 
 </div>
 
-```
-       __ _.--..--._ _
-    .-' _/   _/\_   \_'-.
-   |__ /   _/\__/\_   \__|
-      |___/\_\__/  \___|
-             \__/
-             \__/
-              \__/
-               \__/
-            ____\__/___
-      . - '             ' -.
-     /                      \
-~~~~~~~  ~~~~~ ~~~~~  ~~~ ~~~  ~~~~~
-  ~~~   ~~~~~   ~~~~   ~~ ~~~~ ~~~
-```
-
-Interested in learning and exploring more about **DevOps** and **Full-Stack Development**.
+Pursuing **DevOps** and **Full-Stack Development**.
 
 ### 🛠️ Toolbox
 
