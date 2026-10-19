@@ -22,10 +22,9 @@ Pursuing **DevOps** and **Full-Stack Development**.
 | [**CSC-455-Pokemon-Database**](https://github.com/TWLG/CSC-455-Pokemon-Database) | Pokémon relational database with a web interface |
 | [**UnityGolf592**](https://github.com/TWLG/UnityGolf592) | Golf game built in Unity |
 
-### 📊 Stats
+### 📊 Most Used Languages
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TWLG&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLG&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </div>
 
