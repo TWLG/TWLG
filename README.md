@@ -1,9 +1,3 @@
-<div align="center">
-
-<a href="https://twlg.net"><img src="https://img.shields.io/badge/twlg.net-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
-</div>
-
 Pursuing **DevOps** and **Full-Stack Development**.
 
 <p>
@@ -22,3 +16,8 @@ Pursuing **DevOps** and **Full-Stack Development**.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLG&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </div>
 
+<div align="center">
+
+<a href="https://twlg.net"><img src="https://img.shields.io/badge/twlg.net-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
