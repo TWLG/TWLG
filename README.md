@@ -17,7 +17,7 @@ I build things across the stack — Discord bots, websites, Unity & Unreal proje
 ### 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,php,react,nodejs,unity,unreal,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,react,nodejs,unity,unreal,git&perline=9" />
 </p>
 
 ### 📌 Featured
